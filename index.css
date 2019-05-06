@@ -61,7 +61,7 @@ body, html {
 }
 /* This is for the HOME/WELCOME page */
 #home {
-  background: linear-gradient(rgba(0, 0, 0, .6),rgba(0, 0, 0, 0.5)  ),url("./images/home-bg.jpg");
+  background: linear-gradient(rgba(0, 0, 0, .6),rgba(0, 0, 0, 0.5)  ),url("home-bg.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
