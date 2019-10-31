@@ -25,8 +25,8 @@ display: block;
 }
 body {
 line-height: .8;
-max-width: 1348px;
-margin: auto;
+max-width: 1024px;
+margin: 0 auto;
 }
 ol, ul {
 list-style: none;
